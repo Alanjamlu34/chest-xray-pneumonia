@@ -10,7 +10,8 @@ Dataset URL [chest-xray-pneumonia](https://www.kaggle.com/datasets/paultimothymo
 !kaggle datasets download -d paultimothymooney/chest-xray-pneumonia
 ```
 
-![image](https://github.com/Alanjamlu34/chest-xray-pneumonia/assets/142156489/9e9a26c3-16fa-4c2f-a3d2-5ceb7419ca9b)
+![image](https://github.com/Alanjamlu34/chest-xray-pneumonia/assets/142156489/5e556a5f-9410-438c-95a3-1c3ff02da021)
+
 
 ```
 - loss: 0.1402 - accuracy: 0.9463 - auc: 0.9849 - val_loss: 0.2093 - val_accuracy: 0.9375 - val_auc: 0.9688
